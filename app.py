@@ -4,7 +4,7 @@ import replicate
 
 # 🔐 તમારી Replicate API Key અહીં સેટ કરો
 # (પ્રોફેસનલ રીત: આને Render ના Environment Variables માં મુકવી, અથવા અત્યારે ટેસ્ટિંગ માટે અહીં ડાયરેક્ટ પેસ્ટ કરી શકો)
-os.environ["REPLICATE_API_TOKEN"] = "અહીં_તમારી_REPLICATE_API_KEY_પેસ્ટ_કરો"
+os.environ["REPLICATE_API_TOKEN"] = "r8_50mXTptCUQ6vNkz7darrmzmc06JMjMk1c0u4W"
 
 print("🚀 API કનેક્શન સેટ થઈ ગયું છે. એપ લાઈવ થવા માટે રેડી છે!")
 
